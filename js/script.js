@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const correctCode = "021426"; // Set your static code here
     const message = 
 `Hey <span style="color: red;">Miko</span>,\n\n 
-Happy Valentine’s Day! Just wanted to send a quick message to say I really appreciate our friendship. 
+Happy Valentine’s Day! Just wanted to send a quick message to say that I really appreciate you and our friendship. 
 Looking back at how we met in a <span style="color: lightblue;">crazy gooner place</span> and eventually became close (hopefully) and good friends.\n\n 
 I still always think about you as our days go on, our <span style="color: lightgreen;">conflicting timezones</span> of me being <span style="color: brown;">11 hours ahead</span> is a bit challenging but nonetheless, 
 I try to find time to be sappy and <span style="color: gold;">spend time with you</span>.\n\n 
